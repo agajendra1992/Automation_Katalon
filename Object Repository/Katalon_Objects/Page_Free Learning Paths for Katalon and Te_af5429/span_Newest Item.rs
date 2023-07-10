@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Newest Item</name>
+   <tag></tag>
+   <elementGuidId>0a7fdff3-9296-4936-a2d5-26add6c960c5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.current</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main']/section[2]/div/div[2]/div/form/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>07b59d67-a3fc-4c77-907f-a87183539a7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>current</value>
+      <webElementGuid>00809db5-f7cd-47a7-a20a-7756814e2172</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Newest Item</value>
+      <webElementGuid>bc4ab288-1e26-40d8-97a2-3d276c269540</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/section[@class=&quot;container container_customized archive-page&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col col-12 col-md-9&quot;]/div[@class=&quot;list-top&quot;]/form[@class=&quot;sort-form&quot;]/div[@class=&quot;nice-select submit-filter&quot;]/span[@class=&quot;current&quot;]</value>
+      <webElementGuid>b8d3e05d-9ef2-483e-b86d-5e94ee7033fa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/section[2]/div/div[2]/div/form/div/span</value>
+      <webElementGuid>c5f166c0-d726-4ea6-a763-16f7a73c3a59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Web testing'])[1]/following::span[1]</value>
+      <webElementGuid>6a1fd910-4221-42dc-8457-9c6f258cfb7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='API testing'])[1]/following::span[1]</value>
+      <webElementGuid>750066b4-2229-4c34-baba-e03cb0eb9112</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Newest Item'])[3]/preceding::span[1]</value>
+      <webElementGuid>3193e1e4-3221-4cf0-9e16-db2c6b7596aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Oldest Item'])[2]/preceding::span[1]</value>
+      <webElementGuid>d64a481d-b9fc-44ef-aa67-43e2508a7148</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/span</value>
+      <webElementGuid>177bdfb6-a3b3-41f6-8908-310f14cfed23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Newest Item' or . = 'Newest Item')]</value>
+      <webElementGuid>7c5e5ddc-7f6b-4f09-ab53-35d1beca417a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

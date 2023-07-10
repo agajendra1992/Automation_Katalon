@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_View all</name>
+   <tag></tag>
+   <elementGuidId>be0bb60d-2d63-4856-8572-feff650da848</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.categories > #all</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Visual Testing'])[4]/following::div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5e933d3b-3d9e-443d-86c8-b93043999965</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>category active</value>
+      <webElementGuid>5bd4ba55-2408-4f70-99b0-79ea533d8c46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>all</value>
+      <webElementGuid>4ab925aa-80f3-44a1-905e-e3d6da230720</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>View all</value>
+      <webElementGuid>ab5d84fa-b374-4981-acc6-b9e86eb680b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[1]/div[@class=&quot;Integrations_wrappingIntegrations__1xkjR&quot;]/div[@class=&quot;integrations&quot;]/div[@class=&quot;ecosystem&quot;]/div[@class=&quot;ecosystem-main&quot;]/div[@class=&quot;categories&quot;]/div[@id=&quot;all&quot;]</value>
+      <webElementGuid>15046be6-7935-45f4-a9cc-5849d5636752</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//div[@id='all'])[2]</value>
+      <webElementGuid>a6aaccdb-cc94-4512-bb15-b3660fcb1d1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[2]/div[3]/div[55]/div[2]/div[3]/div</value>
+      <webElementGuid>174878fb-c66e-47e8-91a7-594cf074dbd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Visual Testing'])[4]/following::div[3]</value>
+      <webElementGuid>0bc7292e-3bdc-4016-b90c-643de84e598f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test Impact Analysis'])[2]/following::div[4]</value>
+      <webElementGuid>b2415d91-4f58-4537-81a9-3b856ea227db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Accessibility Testing'])[3]/preceding::div[1]</value>
+      <webElementGuid>90f4f5c0-bf6a-46f6-a72d-429675f1e75e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ALM &amp; Test Management'])[8]/preceding::div[2]</value>
+      <webElementGuid>971d30bd-d4a4-46c9-851c-57d27579aeb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[55]/div[2]/div[3]/div</value>
+      <webElementGuid>3dda0c89-afb4-467f-b668-fd5705209aa7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'all' and (text() = 'View all' or . = 'View all')]</value>
+      <webElementGuid>6d0f8d63-b0f9-4d72-ade2-a123ef91562b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

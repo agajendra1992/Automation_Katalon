@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Webinars</name>
+   <tag></tag>
+   <elementGuidId>2723a614-dec6-47c6-834b-ca667a7a64aa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page']/footer/div/div/div[2]/div/div[4]/ul/li[5]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b02fd787-2f03-463a-8110-9592399c4a37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://katalon.com/webinars/</value>
+      <webElementGuid>7abf3c38-8fc6-407c-b1e5-dd3e057683a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>https://katalon.com/webinars/</value>
+      <webElementGuid>72097579-5b08-4cd2-9af1-ee5e055003cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>block text-sm pb-2 text-black hover:text-lilac-600</value>
+      <webElementGuid>bf61d47a-5874-4808-99ea-a357a24b87a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                            Webinars                                        </value>
+      <webElementGuid>1e8ddb88-0e42-42fe-8589-108bfcc1cfc3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page&quot;)/footer[1]/div[@class=&quot;tw-newbrand22&quot;]/div[@class=&quot;container font-sans mx-auto px-4 x:px-0 md:flex&quot;]/div[@class=&quot;flex-1&quot;]/div[@class=&quot;grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-2&quot;]/div[4]/ul[1]/li[@class=&quot;p-0&quot;]/a[@class=&quot;block text-sm pb-2 text-black hover:text-lilac-600&quot;]</value>
+      <webElementGuid>95dd0569-754b-4c4b-8f26-6135db0a335f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page']/footer/div/div/div[2]/div/div[4]/ul/li[5]/a</value>
+      <webElementGuid>8fd1cfa0-7cc5-4334-84a1-cf2b63127a37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Webinars')]</value>
+      <webElementGuid>d487a966-3b75-4f86-a4e5-f38473b95c79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Technical Support'])[1]/following::a[1]</value>
+      <webElementGuid>b95e596a-f58c-4a1f-8b45-5b3380159b77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Success Stories'])[1]/following::a[2]</value>
+      <webElementGuid>5069891e-dc64-4cae-937a-c9b38d0b3780</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Documentation'])[1]/preceding::a[1]</value>
+      <webElementGuid>d004675a-305a-4a99-ab0d-fab93f88be26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Getting Started'])[1]/preceding::a[2]</value>
+      <webElementGuid>9c886653-d2a9-48ef-b38d-36242ea1aca2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Webinars']/parent::*</value>
+      <webElementGuid>de33b221-b5c1-4d00-aed8-3265b5a1c1c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://katalon.com/webinars/')]</value>
+      <webElementGuid>d8d1d02d-b884-4a14-8f9a-7c28e40b089b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/ul/li[5]/a</value>
+      <webElementGuid>e590e3cf-d534-46e1-88e6-95ceccabd40d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://katalon.com/webinars/' and (text() = '
+                                            Webinars                                        ' or . = '
+                                            Webinars                                        ')]</value>
+      <webElementGuid>5f4e402a-9d97-4382-a9fa-17159491df76</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

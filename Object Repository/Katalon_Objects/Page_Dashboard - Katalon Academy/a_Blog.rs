@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Blog</name>
+   <tag></tag>
+   <elementGuidId>93c39a17-9b51-4446-8ecd-73f41a5cd06a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page']/footer/div/div/div[2]/div/div[4]/ul/li/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>39036212-fbc8-43a7-8636-3c7ab11c9bf3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://katalon.com/resources-center/blog</value>
+      <webElementGuid>872324ac-3c8f-4f44-af23-dfdc7478aeed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>https://katalon.com/resources-center/blog</value>
+      <webElementGuid>881af459-580e-4a2e-96df-2c8b1a1a77d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>block text-sm pb-2 text-black hover:text-lilac-600</value>
+      <webElementGuid>0ebdf70b-5891-4d09-bc3a-467a5cf0bc8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                            Blog                                        </value>
+      <webElementGuid>959eb2bf-3bfe-4b36-8e7d-240d2054727a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page&quot;)/footer[1]/div[@class=&quot;tw-newbrand22&quot;]/div[@class=&quot;container font-sans mx-auto px-4 x:px-0 md:flex&quot;]/div[@class=&quot;flex-1&quot;]/div[@class=&quot;grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-2&quot;]/div[4]/ul[1]/li[@class=&quot;p-0&quot;]/a[@class=&quot;block text-sm pb-2 text-black hover:text-lilac-600&quot;]</value>
+      <webElementGuid>3220ddcf-1f60-47dc-8054-947615d219e5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page']/footer/div/div/div[2]/div/div[4]/ul/li/a</value>
+      <webElementGuid>f5c65554-d7a8-4fde-b254-3dd7e56f5ef0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Blog')]</value>
+      <webElementGuid>efa4b7eb-90bc-4396-987b-a80842b2b1b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Integrations'])[1]/following::a[1]</value>
+      <webElementGuid>16fbeef1-0e30-4055-a543-aa54909d212c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Desktop Testing'])[1]/following::a[2]</value>
+      <webElementGuid>a84a828b-ab6b-40b9-9713-78cc7d014e43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Community'])[1]/preceding::a[1]</value>
+      <webElementGuid>c954a43b-7a32-4d17-8018-b51b55bb90b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Success Stories'])[1]/preceding::a[2]</value>
+      <webElementGuid>b9bad18f-1119-4269-b613-54f64eead878</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Blog']/parent::*</value>
+      <webElementGuid>5162c17c-68f8-4e7e-8bd8-09f735e74794</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://katalon.com/resources-center/blog')]</value>
+      <webElementGuid>ba66a1dc-0e2c-43ef-aa7a-e0b9f981c23a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/ul/li/a</value>
+      <webElementGuid>216bc90c-229f-429d-8c2e-e45acb7111de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://katalon.com/resources-center/blog' and (text() = '
+                                            Blog                                        ' or . = '
+                                            Blog                                        ')]</value>
+      <webElementGuid>b1cafa98-bcf0-49dd-885a-a3a739d473c3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Partner Details</name>
+   <tag></tag>
+   <elementGuidId>f05e5ff1-e9d6-489f-a0b9-07920e0122b4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-primary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e49c2d57-1f4c-4601-a399-7f4ec9ebc139</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary</value>
+      <webElementGuid>470f87f7-5d42-4b63-9ec4-4c69cf5ced51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/english/partner-locator/partner/1918586/accesshq</value>
+      <webElementGuid>9c0b1054-3290-4a83-a88f-125498af6e5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Partner Details</value>
+      <webElementGuid>197dd3e9-b863-4b4f-9b64-0f93957897bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Locator_BodyContent_ResultsContainer&quot;)/section[@class=&quot;directory-results&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-9&quot;]/div[@class=&quot;partner-cards xxxhorizontal-card&quot;]/div[@class=&quot;row row-results&quot;]/div[@class=&quot;col-lg-4 col-sm-6 panel-wrapper&quot;]/div[@class=&quot;panel panel-default&quot;]/div[@class=&quot;panel-footer text-center&quot;]/a[@class=&quot;btn btn-primary&quot;]</value>
+      <webElementGuid>de73f9ed-626b-427a-9650-d2507d0121a1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Locator_BodyContent_ResultsContainer']/section[2]/div/div/div[2]/div/div/div/div/div/a[2]</value>
+      <webElementGuid>a911086b-dc9f-45f4-931d-3c2e3763ac1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Partner Details')]</value>
+      <webElementGuid>0e755e4b-2dbb-4c25-8447-734dbad3b71f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AccessHQ'])[1]/following::a[2]</value>
+      <webElementGuid>9a1b1b1d-4fe1-4fec-84a6-0d4d14049530</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Training Services (14)'])[1]/following::a[5]</value>
+      <webElementGuid>b05b57f2-3c72-4582-aafa-0324182ecd9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Amazon'])[1]/preceding::a[2]</value>
+      <webElementGuid>5a5163b6-6dd5-46db-9ef8-00733be9aa2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Partner Details'])[2]/preceding::a[4]</value>
+      <webElementGuid>42dde740-f0bd-4b54-9088-b00db40dfddc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Partner Details']/parent::*</value>
+      <webElementGuid>3df3b82d-380a-434e-b239-33f96a678a6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/english/partner-locator/partner/1918586/accesshq')])[4]</value>
+      <webElementGuid>0cef689e-1e4d-47f3-b293-da54fadeb351</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]</value>
+      <webElementGuid>c365b987-7f5b-44e2-bc90-20c041135138</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/english/partner-locator/partner/1918586/accesshq' and (text() = 'Partner Details' or . = 'Partner Details')]</value>
+      <webElementGuid>62b0cc07-d271-430c-ae24-38428ae84d25</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

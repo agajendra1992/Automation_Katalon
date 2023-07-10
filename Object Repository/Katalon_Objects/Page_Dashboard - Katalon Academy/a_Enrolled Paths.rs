@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Enrolled Paths</name>
+   <tag></tag>
+   <elementGuidId>69753310-59e8-4d2e-813b-3393cf257df4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page']/div[3]/div/div[2]/div/ul/li[3]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>7ad73237-0a68-4ee7-addd-9ccd79101cec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://academy.katalon.com/dashboard/enrolled-paths</value>
+      <webElementGuid>066e37e1-e3a9-4f29-b4c6-58065d61600e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Enrolled Paths </value>
+      <webElementGuid>043b762e-41b6-45c2-8bdc-3ba88f58dfdd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page&quot;)/div[@class=&quot;tutor-wrap tutor-dashboard tutor-dashboard-student&quot;]/div[@class=&quot;tutor-container&quot;]/div[@class=&quot;tutor-row&quot;]/div[@class=&quot;tutor-col-3 tutor-dashboard-left-menu&quot;]/ul[@class=&quot;tutor-dashboard-permalinks&quot;]/li[@class=&quot;tutor-dashboard-menu-enrolled-paths&quot;]/a[1]</value>
+      <webElementGuid>25d1c407-c067-4a21-8e36-255db9bff4b9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page']/div[3]/div/div[2]/div/ul/li[3]/a</value>
+      <webElementGuid>98fe14a0-c618-499d-8134-de1e591bbe24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Enrolled Paths')])[2]</value>
+      <webElementGuid>eec4fba9-46f2-484c-b7a1-00624bf132e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enrolled Courses'])[2]/following::a[1]</value>
+      <webElementGuid>1f87f256-7721-4e98-ba7c-39c9a8de8934</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Certifications'])[5]/following::a[2]</value>
+      <webElementGuid>6c90e71d-6c84-43f2-b803-5e83e84c43e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Quiz Attempts'])[2]/preceding::a[1]</value>
+      <webElementGuid>c934d946-ecfa-411d-8681-3e96894fd79f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/preceding::a[2]</value>
+      <webElementGuid>04daf611-bc8f-41d2-a3e8-4ad1be9a7633</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://academy.katalon.com/dashboard/enrolled-paths')])[2]</value>
+      <webElementGuid>93a0d367-9d39-4dbb-90a2-ab11209cf26b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/ul/li[3]/a</value>
+      <webElementGuid>d69c1f36-c4e2-4bc5-8486-d8ec1168b057</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://academy.katalon.com/dashboard/enrolled-paths' and (text() = ' Enrolled Paths ' or . = ' Enrolled Paths ')]</value>
+      <webElementGuid>d0f8c453-2130-437e-bdbf-0a3df3c3d0ff</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

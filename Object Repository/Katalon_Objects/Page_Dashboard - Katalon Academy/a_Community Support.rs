@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Community Support</name>
+   <tag></tag>
+   <elementGuidId>2921a72a-eda1-4c09-ac57-bcfdc42f8bfd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#menu-main-menu-1 > li.menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-has-children.menu-item-36747 > ul.sub-menu > li.menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-36765 > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='menu-main-menu-1']/li[4]/ul/li[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>fdd332cd-d0df-4c47-951b-1bb31753465b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>55122488-b558-4a9e-aced-be2c66b847f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>noopener</value>
+      <webElementGuid>f4519ba5-9ba3-48e4-8c29-51848e171ddf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://forum.katalon.com/</value>
+      <webElementGuid>61f161e6-378c-4d7e-b5e9-1bdfde2dbf15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Community Support</value>
+      <webElementGuid>1e8e1fff-4c98-4883-8c48-ee3ab03e982a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-main-menu-1&quot;)/li[@class=&quot;menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-36747&quot;]/ul[@class=&quot;sub-menu&quot;]/li[@class=&quot;menu-item menu-item-type-custom menu-item-object-custom menu-item-36765&quot;]/a[1]</value>
+      <webElementGuid>2084c0ca-801f-473a-a2f7-f12d6d9e1ba2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='menu-main-menu-1']/li[4]/ul/li[2]/a</value>
+      <webElementGuid>b8c11725-b4c2-4465-8816-79b277f89ac9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Community Support')])[2]</value>
+      <webElementGuid>84769e43-b8a1-4311-9993-c35f9f7a561c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Katalon Demo and Integration'])[2]/following::a[1]</value>
+      <webElementGuid>b87cad37-e09c-4466-a5d9-ef996dd8218c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Certifications'])[3]/following::a[3]</value>
+      <webElementGuid>4aabe3cf-c713-413e-85fa-948c73f9b7b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GS'])[2]/preceding::a[1]</value>
+      <webElementGuid>de68387b-3e59-4d54-bbe1-cb9ff36462c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/preceding::a[2]</value>
+      <webElementGuid>f5c1df9d-effe-4663-a149-67ce4df33897</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://forum.katalon.com/')])[2]</value>
+      <webElementGuid>e349c85d-14c9-42cc-b6fe-b14b61150be2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/ul/li[4]/ul/li[2]/a</value>
+      <webElementGuid>196fadab-912e-451b-84e9-85248278f7b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://forum.katalon.com/' and (text() = 'Community Support' or . = 'Community Support')]</value>
+      <webElementGuid>0cc4194a-d61d-4184-b81f-36e7bba279ff</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

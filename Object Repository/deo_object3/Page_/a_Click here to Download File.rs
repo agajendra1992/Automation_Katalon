@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Click here to Download File</name>
+   <tag></tag>
+   <elementGuidId>6920ae42-51cc-456b-bbce-93033b9f5518</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.control-group > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='post-body-3077692503353518311']/div/div/div/h2[2]/div/div/div[28]/div[2]/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>8ede260c-2bb3-47f1-92cf-fea573132b75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://github.com/stanfy/behave-rest/blob/master/features/conf.yaml</value>
+      <webElementGuid>eb955e42-3adc-4d51-9eab-b29d7407ec34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Click here to Download File</value>
+      <webElementGuid>460fcfc3-4f79-4d80-bdc3-73b897c6d877</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post-body-3077692503353518311&quot;)/div[1]/div[1]/div[1]/h2[2]/div[1]/div[1]/div[@class=&quot;controls&quot;]/div[@class=&quot;control-group&quot;]/div[@class=&quot;control-group&quot;]/a[1]</value>
+      <webElementGuid>720a9569-4d7b-4ce3-ae8b-655c4bd13722</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='post-body-3077692503353518311']/div/div/div/h2[2]/div/div/div[28]/div[2]/div/a</value>
+      <webElementGuid>b3ea13f8-f05e-4d80-9942-e22fac799a12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Click here to Download File')]</value>
+      <webElementGuid>bda04670-a964-492e-873c-3d44a85f50fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload Image'])[1]/following::a[1]</value>
+      <webElementGuid>f651d323-c72c-4c52-9571-31fd6eabf338</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Button'])[1]/preceding::a[1]</value>
+      <webElementGuid>1598438f-8722-4ccf-861d-bd4f32c193d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('How to Automate ', &quot;'&quot;, 'Practice Form', &quot;'&quot;, ' with Selenium WebDriver')])[1]/preceding::a[1]</value>
+      <webElementGuid>01aaf203-0538-4691-93da-b1365936756e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Click here to Download File']/parent::*</value>
+      <webElementGuid>10ce2c35-ddcd-4023-a3ad-1b319a987f11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://github.com/stanfy/behave-rest/blob/master/features/conf.yaml')]</value>
+      <webElementGuid>30390f89-8e8a-46a7-9b09-51aa85d790e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[28]/div[2]/div/a</value>
+      <webElementGuid>134b8be9-d4f8-4fd9-9501-07a6baff932d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://github.com/stanfy/behave-rest/blob/master/features/conf.yaml' and (text() = 'Click here to Download File' or . = 'Click here to Download File')]</value>
+      <webElementGuid>85518341-82a2-480e-983a-53cc8a5e5cf3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

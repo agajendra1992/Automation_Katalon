@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_20 off</name>
+   <tag></tag>
+   <elementGuidId>91d1d9ca-e16d-412b-837f-287876ec50b6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.dcl-badge-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='anonCarousel1']/ol/li/div/div/a/div[2]/div/span/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d0d21bb3-1cb3-4eb8-8e76-1fd807779e5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dcl-badge-label</value>
+      <webElementGuid>72df19d2-cbbb-4537-841b-134cacbccffb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>20% off</value>
+      <webElementGuid>15a191e8-c597-40b2-98be-50c4dc889306</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;anonCarousel1&quot;)/ol[@class=&quot;a-carousel&quot;]/li[@class=&quot;a-carousel-card dcl-carousel-element&quot;]/div[@class=&quot;dcl-product-wrapper&quot;]/div[@class=&quot;a-cardui dcl-product&quot;]/a[@class=&quot;a-link-normal dcl-product-link&quot;]/div[@class=&quot;a-section dcl-product-detail&quot;]/div[@class=&quot;a-section dcl-badge&quot;]/span[@class=&quot;a-size-mini&quot;]/div[@class=&quot;dcl-badge-label&quot;]</value>
+      <webElementGuid>0398b5b5-81dc-4ae5-b56a-b3896d1d3505</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='anonCarousel1']/ol/li/div/div/a/div[2]/div/span/div</value>
+      <webElementGuid>06d24790-98d4-4b7a-a8c6-2abf8ab24ce7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Previous Page'])[1]/following::div[8]</value>
+      <webElementGuid>0aab8dac-bc90-49a1-bef4-4de4bac65693</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Discover more 4th of July deals'])[1]/following::div[14]</value>
+      <webElementGuid>07f2b20d-4a9a-4346-83da-4ce4b50b600d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ends in'])[1]/preceding::div[1]</value>
+      <webElementGuid>7b9bfdd8-de03-4708-b764-33a383f6aca0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/span/div</value>
+      <webElementGuid>2a644852-73f2-4a77-b50c-9f1ed76dcaf2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '20% off' or . = '20% off')]</value>
+      <webElementGuid>d4c26669-82fb-4a51-8758-353d81e54ad6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

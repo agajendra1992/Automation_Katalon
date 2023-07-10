@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_All Courses_s_icon toogle-search-icon</name>
+   <tag></tag>
+   <elementGuidId>e6c226c2-0056-4a2e-97e3-83bf6f087d7e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.s_icon.toogle-search-icon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='topHeader']/div/nav/div[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>755a61d8-5049-496f-9e64-f354de25b7e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>s_icon toogle-search-icon</value>
+      <webElementGuid>bf7d823c-620a-4df0-a6f3-3eeafc6ae8a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;topHeader&quot;)/div[@class=&quot;container&quot;]/nav[@class=&quot;links-left&quot;]/div[@class=&quot;search_topbar&quot;]/span[@class=&quot;s_icon toogle-search-icon&quot;]</value>
+      <webElementGuid>91c589ab-98c7-4479-88b5-11aa4f6b610d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='topHeader']/div/nav/div[2]/span</value>
+      <webElementGuid>b87ff991-c005-4686-9008-22306574c66d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/span</value>
+      <webElementGuid>73363ff6-60f8-4638-ac75-798218636348</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

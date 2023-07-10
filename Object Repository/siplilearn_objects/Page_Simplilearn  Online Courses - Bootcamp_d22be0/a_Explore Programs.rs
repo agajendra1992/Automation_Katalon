@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Explore Programs</name>
+   <tag></tag>
+   <elementGuidId>caff7516-29cb-4af7-9620-a321040399b3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='home-banner-li']/div/div/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e1292acf-6626-40a6-a05d-81bc1735fc10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#post-graduate-programs</value>
+      <webElementGuid>ab350dcc-e431-417d-9256-e3bc2c362480</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Explore Post Graduate Programs</value>
+      <webElementGuid>cff0893f-41c5-4c8e-8704-c4c093398ce7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn</value>
+      <webElementGuid>f90045de-ee5d-4d65-9f35-566527e8c023</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Explore Programs</value>
+      <webElementGuid>0e04ed69-cc3f-4757-9ae9-3f2224410552</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;home-banner-li&quot;)/div[@class=&quot;banner&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;left-clm&quot;]/a[@class=&quot;btn&quot;]</value>
+      <webElementGuid>5739218a-a277-4293-b608-723667a205db</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='home-banner-li']/div/div/div/a</value>
+      <webElementGuid>d72c6d53-ae44-4fb5-bbcc-2eea0493e2a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Explore Programs')]</value>
+      <webElementGuid>5991b72b-e17d-445b-88dc-f5ab286aff6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Get Certified, Get Ahead with Our Programs'])[1]/preceding::a[2]</value>
+      <webElementGuid>c00c8f4c-5b51-459b-b782-479e6034822b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Post Graduate Programs'])[1]/preceding::a[2]</value>
+      <webElementGuid>7305575f-efa8-4751-8442-8ad007509a07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Explore Programs']/parent::*</value>
+      <webElementGuid>7d051afb-3b7e-4690-bad8-9a6e0b4bfaff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#post-graduate-programs')]</value>
+      <webElementGuid>479785fc-e7fd-40ef-a980-551828c027e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/div/div/a</value>
+      <webElementGuid>39dbc6b8-8bab-4c2a-9e83-a51a39637cac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#post-graduate-programs' and @title = 'Explore Post Graduate Programs' and (text() = 'Explore Programs' or . = 'Explore Programs')]</value>
+      <webElementGuid>4c553e36-c40d-4e11-8b85-356c17f58f1f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

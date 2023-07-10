@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Certifications</name>
+   <tag></tag>
+   <elementGuidId>ab5a4d0a-68a6-409d-a5a9-28b79d10c365</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.tutor-dashboard-menu-certifications.active > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page']/div[3]/div/div[2]/div/ul/li/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>7d316d43-b937-46f2-ac2c-24d5abaaf020</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://academy.katalon.com/dashboard/certifications</value>
+      <webElementGuid>d9292ce0-73cf-4180-b159-021be7a660b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Certifications </value>
+      <webElementGuid>7231a6a4-65e6-4f06-aa58-001c0e048b44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page&quot;)/div[@class=&quot;tutor-wrap tutor-dashboard tutor-dashboard-student&quot;]/div[@class=&quot;tutor-container&quot;]/div[@class=&quot;tutor-row&quot;]/div[@class=&quot;tutor-col-3 tutor-dashboard-left-menu&quot;]/ul[@class=&quot;tutor-dashboard-permalinks&quot;]/li[@class=&quot;tutor-dashboard-menu-certifications active&quot;]/a[1]</value>
+      <webElementGuid>56e73620-3d80-4af9-af08-9d09c2c1fc0f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page']/div[3]/div/div[2]/div/ul/li/a</value>
+      <webElementGuid>12bb30a3-2c52-485c-af9a-a397f13198f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Certifications')])[5]</value>
+      <webElementGuid>98dfcff7-6021-4943-9a79-eebc3c5c1a0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Note: This name will be used for your certificates.'])[1]/following::a[1]</value>
+      <webElementGuid>5701cd06-71fa-45bc-98f9-49325f8a887d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name should contain at least 4 characters.'])[1]/following::a[1]</value>
+      <webElementGuid>7c10b717-3da3-477b-91a9-7a4e6bfce5bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enrolled Courses'])[2]/preceding::a[1]</value>
+      <webElementGuid>31e2422a-6a12-4544-b4be-c998f26d9724</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enrolled Paths'])[2]/preceding::a[2]</value>
+      <webElementGuid>cc3bc072-970a-4b2a-ab3c-2f6a698c61af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://academy.katalon.com/dashboard/certifications')])[3]</value>
+      <webElementGuid>a4858d33-28a4-49ad-98e4-bba9f07f525a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/ul/li/a</value>
+      <webElementGuid>0084fc78-5753-4d35-8b0f-083b4d7a93d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://academy.katalon.com/dashboard/certifications' and (text() = 'Certifications ' or . = 'Certifications ')]</value>
+      <webElementGuid>ce323bc7-29d6-4e04-ae1c-5ecaad12f74f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

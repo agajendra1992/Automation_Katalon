@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Book a demo</name>
+   <tag></tag>
+   <elementGuidId>f0398d2c-ed7c-4e8e-83f4-b58b14446fca</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.book-a-demo</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div[2]/div/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>48defc0b-b9d8-4781-b3f1-57398a4d0ec1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>book-a-demo</value>
+      <webElementGuid>310aa6d6-5804-4933-af96-54b7ca4a2b3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#contact-us</value>
+      <webElementGuid>dfd3a658-cebc-4275-a41a-b1770ecbf318</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Book a demo</value>
+      <webElementGuid>56517db2-55c5-4ca3-88ce-4b0b79297a2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[1]/div[@class=&quot;CaseStudies_wrapCaseStudies__ShDnH&quot;]/div[@class=&quot;case-studies&quot;]/div[@class=&quot;hero&quot;]/a[@class=&quot;book-a-demo&quot;]</value>
+      <webElementGuid>c830ca82-ab72-4ef0-bc7f-1ae5e9aedc32</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[2]/div/div/a</value>
+      <webElementGuid>c85f6716-5476-405d-9761-fff7840cea1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Book a demo')]</value>
+      <webElementGuid>ff945b6d-8a70-4f28-9366-73dcc52fc004</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Success Stories'])[2]/following::a[1]</value>
+      <webElementGuid>15033ffc-4b81-4bf8-b6a9-2e47a4c4f0d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All jobs'])[2]/following::a[1]</value>
+      <webElementGuid>23a9cbf9-08c1-40b5-a744-43ca3e74995c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ENERGY'])[1]/preceding::a[1]</value>
+      <webElementGuid>10d1394c-eaf6-41bc-8edc-310f5222667e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='COMMUNICATION SERVICES'])[1]/preceding::a[2]</value>
+      <webElementGuid>0a0732c1-5974-47b9-ac06-76d6fbace54e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Book a demo']/parent::*</value>
+      <webElementGuid>c89173db-b956-4c41-be58-7ee8501916e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#contact-us')]</value>
+      <webElementGuid>f9a9a027-2e53-42f7-9d67-3d00b2ccddbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/a</value>
+      <webElementGuid>16f50658-2602-400e-b017-737029736cac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#contact-us' and (text() = 'Book a demo' or . = 'Book a demo')]</value>
+      <webElementGuid>11d867a6-7070-4810-aebc-f3677df78fe1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Select city</name>
+   <tag></tag>
+   <elementGuidId>c0ed807d-fefc-4f65-a874-e4c59a73768a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div._8Phu0v</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='container']/div/div/div/div[2]/div[3]/div[2]/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>03dc0b82-7169-4dbe-a2b6-2ee335938131</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_8Phu0v</value>
+      <webElementGuid>7b2e3e09-2d90-48e2-b1ec-b3394a995cbb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select city</value>
+      <webElementGuid>b5c6ebce-f0cb-46bc-99e7-4b45248fc361</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;container&quot;)/div[1]/div[@class=&quot;_1kfTjk&quot;]/div[@class=&quot;_2nQkPF _1rH5Jn&quot;]/div[@class=&quot;_2Xfa2_&quot;]/div[@class=&quot;go_DOp _1ASpQe&quot;]/div[@class=&quot;_2yTL60&quot;]/div[@class=&quot;_1psGvi _3w81sF&quot;]/div[1]/div[@class=&quot;_8Phu0v&quot;]</value>
+      <webElementGuid>3c056c1c-3955-4418-84e8-74cd4d0ad1b2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='container']/div/div/div/div[2]/div[3]/div[2]/div/div/div</value>
+      <webElementGuid>d6e96c3d-7f95-43d1-b783-0b90b1f64e04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Only available in selected cities'])[1]/preceding::div[3]</value>
+      <webElementGuid>4a97f4b9-5809-4d6f-8772-7f576f05db13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Select city']/parent::*</value>
+      <webElementGuid>cc862968-2c11-4cc4-a176-7239f09315b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/div/div</value>
+      <webElementGuid>9a2b6fb2-07cb-4d84-851d-91c45bde1130</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Select city' or . = 'Select city')]</value>
+      <webElementGuid>5791550e-ba93-4ef5-ae88-86f275312873</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Test API now</name>
+   <tag></tag>
+   <elementGuidId>21c8f9a7-4bd1-431d-af2d-57781a2cc983</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.start-testing</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='second-content']/div[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>1b4b08cc-5780-4590-b3b4-65cd5326d395</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>start-testing</value>
+      <webElementGuid>37ba1e5c-26a4-4661-913c-9b6f5c162e1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/sign-up</value>
+      <webElementGuid>b4b612ae-ed94-4004-b3e9-615270a6dbc4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Test API now</value>
+      <webElementGuid>368a77fc-addd-467b-8ac3-c5a5b3aa9cf7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[1]/div[@class=&quot;APITesting_wrapAPITesting__AKkWX&quot;]/div[@class=&quot;solution&quot;]/div[@class=&quot;why-katalon&quot;]/div[@id=&quot;second-content&quot;]/div[@class=&quot;content-right&quot;]/a[@class=&quot;start-testing&quot;]</value>
+      <webElementGuid>1b28bb2d-47da-47ee-8c5b-dcf9850c255f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='second-content']/div[2]/a</value>
+      <webElementGuid>fdba8fff-ef20-49f6-a913-9edd2ee6a85d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Test API now')]</value>
+      <webElementGuid>86507f17-193d-473a-8107-9ba9913e1d71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Faster releases'])[1]/following::a[1]</value>
+      <webElementGuid>8a88d36a-e30b-47ac-a341-43eb417f4749</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Improved test coverage'])[1]/following::a[1]</value>
+      <webElementGuid>213c431c-37f6-493f-b639-e0576c98279a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='API Testing Types'])[1]/preceding::a[1]</value>
+      <webElementGuid>e7307086-3ed5-4cc6-ac75-faa183826cf5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Validation Testing'])[1]/preceding::a[1]</value>
+      <webElementGuid>59e850cf-199a-46f5-8b26-6d65401d9653</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Test API now']/parent::*</value>
+      <webElementGuid>0a10b5f4-7317-41be-935d-08324b143902</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/sign-up')])[4]</value>
+      <webElementGuid>bbb64257-6571-4868-a67d-6b8ba8d0c106</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[4]/div/div[2]/a</value>
+      <webElementGuid>dfccd62e-48a6-42c2-9e8b-d664a7b75b2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/sign-up' and (text() = 'Test API now' or . = 'Test API now')]</value>
+      <webElementGuid>f1e51748-703b-4bd1-8a21-1185ff5e2fad</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

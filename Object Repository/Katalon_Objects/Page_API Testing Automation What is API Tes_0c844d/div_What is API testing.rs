@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_What is API testing</name>
+   <tag></tag>
+   <elementGuidId>7d2e634c-ccd4-4de0-9af1-e559c0a22a3d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.feature</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div[2]/div/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c9a55efd-e6af-4df1-939d-c6d076716c9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>feature</value>
+      <webElementGuid>58e1326d-4197-4255-bad8-3f5f861732bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>What is API testing?</value>
+      <webElementGuid>5b1e6e2b-8103-4ab8-8cc1-dc540c28f719</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[1]/div[@class=&quot;APITesting_wrapAPITesting__AKkWX&quot;]/div[@class=&quot;solution&quot;]/div[@class=&quot;features&quot;]/div[@class=&quot;listing&quot;]/div[@class=&quot;feature&quot;]</value>
+      <webElementGuid>d36fb6f8-5abd-46c5-bd0f-2a126ceac312</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[2]/div/div[2]/div/div</value>
+      <webElementGuid>38ad6c1c-d1ec-4685-b92f-f6b6c34c2919</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View a demo'])[1]/following::div[3]</value>
+      <webElementGuid>c34009bd-1047-4249-a5db-1e7a1dcf278a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Get started'])[1]/following::div[3]</value>
+      <webElementGuid>26facb74-4564-487b-bbc7-836604b025ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Benefits of API testing'])[1]/preceding::div[2]</value>
+      <webElementGuid>1b055401-3451-49b0-a613-eb0a2f86b53f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div</value>
+      <webElementGuid>255187ea-69c2-44cc-a487-5c6aba6cd754</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'What is API testing?' or . = 'What is API testing?')]</value>
+      <webElementGuid>7793fb82-052d-41cc-8c29-fa77c602979b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

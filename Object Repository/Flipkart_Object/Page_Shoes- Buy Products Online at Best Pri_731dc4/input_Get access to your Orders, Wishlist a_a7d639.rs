@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Get access to your Orders, Wishlist a_a7d639</name>
+   <tag></tag>
+   <elementGuidId>bfa77a2d-1563-4ff2-aadc-f910c894246d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input._2IX_2-.VJZDxU</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>56ad967d-fb77-49b6-a4a4-cf47872e66f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+      <webElementGuid>d963609f-a41d-43bb-8c32-dd2c257a4266</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>95c606fc-f1a4-4cdb-8ea2-a710eb3f8989</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_2IX_2- VJZDxU</value>
+      <webElementGuid>ca09a45a-9d90-4ffc-888d-52161f24c91b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;fonts-loaded&quot;]/body[@class=&quot;fk-modal-visible&quot;]/div[@class=&quot;_2Sn47c&quot;]/div[@class=&quot;_2hriZF _2rbIyg&quot;]/div[@class=&quot;_2QfC02&quot;]/div[@class=&quot;_2MlkI1&quot;]/div[@class=&quot;_3wFoIb row&quot;]/div[@class=&quot;_36HLxm col col-3-5&quot;]/div[1]/form[1]/div[@class=&quot;IiD88i _351hSN&quot;]/input[@class=&quot;_2IX_2- VJZDxU&quot;]</value>
+      <webElementGuid>a150b680-0e55-45a0-a00e-a35d4b1833fa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='']</value>
+      <webElementGuid>0959e8d9-88fb-4d6f-885b-ccefc7de98cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div[2]/div/form/div/input</value>
+      <webElementGuid>46a0717c-6aab-4654-9bfa-a9fff78ffd07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text']</value>
+      <webElementGuid>d64ba2f9-112f-4eb7-817e-e4e1302ab598</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

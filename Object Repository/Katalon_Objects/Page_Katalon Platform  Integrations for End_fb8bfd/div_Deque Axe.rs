@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Deque Axe</name>
+   <tag></tag>
+   <elementGuidId>304fddf5-3b89-4742-97fc-1ba6e87393b5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.integration.deque-axe.accessibility</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div[2]/div[3]/div[55]/div[2]/div[4]/div[17]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>63665477-0bf4-48a8-9a2d-59fb041b9c0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>integration deque-axe accessibility</value>
+      <webElementGuid>022d581b-ef51-46eb-9135-1eef2faae3a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-rnd-hoverable</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>485a7876-e0a9-4d69-b0f8-3e73d89750c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-rnd-last-action-id</name>
+      <type>Main</type>
+      <value>e402a94d-2ba5-41bf-80c0-ccb69159944f</value>
+      <webElementGuid>10749d09-4038-4da5-9994-a10163112751</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Deque Axe</value>
+      <webElementGuid>ffee1aba-fc80-4232-91a8-772dab84b81b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[1]/div[@class=&quot;Integrations_wrappingIntegrations__1xkjR&quot;]/div[@class=&quot;integrations&quot;]/div[@class=&quot;ecosystem&quot;]/div[@class=&quot;ecosystem-main&quot;]/div[@class=&quot;listing&quot;]/div[@class=&quot;integration deque-axe accessibility&quot;]</value>
+      <webElementGuid>19464098-b158-4da6-adaa-b9ac3119ec01</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[2]/div[3]/div[55]/div[2]/div[4]/div[17]</value>
+      <webElementGuid>ade74a0c-3e25-4434-9b9d-9c3e09fa9512</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cypress'])[2]/following::div[1]</value>
+      <webElementGuid>0af1e11c-0e37-4414-a167-b05eb78d39d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Curiosity'])[2]/following::div[3]</value>
+      <webElementGuid>916c230a-b8eb-48bc-b23d-415c12d2b80c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dynatrace'])[2]/preceding::div[2]</value>
+      <webElementGuid>26de255e-e1b4-472a-9ea3-ff0ef756c163</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[17]</value>
+      <webElementGuid>7f0b79e5-adbe-4b2d-8403-cfaef1e8982e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Deque Axe' or . = 'Deque Axe')]</value>
+      <webElementGuid>8b3e2419-1637-4aaf-be71-aee685a8ccdf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

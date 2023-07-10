@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_SELECT ROOM</name>
+   <tag></tag>
+   <elementGuidId>af8e3c2e-0c20-444f-b48a-b81198f669ff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='room0']/div[2]/div/div[2]/div/div[2]/div[2]/a/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>7a1bdb38-7b76-43fb-bef5-ab0a5a1d2911</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SELECT ROOM</value>
+      <webElementGuid>27eef8ec-ecc6-4fd5-b054-8e123e6d583e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;room0&quot;)/div[@class=&quot;rmSelect__card--right&quot;]/div[@class=&quot;rmSelect__card--row&quot;]/div[@class=&quot;rmSelect__card--rowRight&quot;]/div[@class=&quot;rmPayable&quot;]/div[@class=&quot;rmPayable__dtl&quot;]/div[@class=&quot;rmPayable__dtl--right&quot;]/a[@class=&quot;primaryBtn rmPayable__dtl--cta&quot;]/p[1]</value>
+      <webElementGuid>b4a2ab5b-249c-4fec-a2c2-a4ebea172b14</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='room0']/div[2]/div/div[2]/div/div[2]/div[2]/a/p</value>
+      <webElementGuid>5a373366-d36d-4542-8239-cc02b9105db1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+₹ 387'])[1]/following::p[1]</value>
+      <webElementGuid>d619dca1-b446-45bc-a476-967b93caf025</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MMTBESTBUY'])[2]/following::p[5]</value>
+      <webElementGuid>4de41fdf-e3b1-492b-91cf-41708ceaa031</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Room With Free Cancellation | Breakfast only'])[1]/preceding::p[2]</value>
+      <webElementGuid>4e05f236-5dc0-4d26-9019-83580bbeff26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='SELECT ROOM']/parent::*</value>
+      <webElementGuid>0b8313bc-379f-4e45-8e84-97a0285b66f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/p</value>
+      <webElementGuid>2d9ec8f8-9c04-489d-be54-c088eb59e085</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'SELECT ROOM' or . = 'SELECT ROOM')]</value>
+      <webElementGuid>a28a795e-f55e-4364-ae2d-2f675a26f6f6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

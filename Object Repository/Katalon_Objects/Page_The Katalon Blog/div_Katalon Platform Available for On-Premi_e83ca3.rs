@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Katalon Platform Available for On-Premi_e83ca3</name>
+   <tag></tag>
+   <elementGuidId>406878ab-c78e-4562-888e-a1eb7e0b0d88</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='news']/div/div/div[2]/a/div[2]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b33b264c-6ad8-47fb-8432-7c122c2ec0de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>title_blog</value>
+      <webElementGuid>ee1aea6c-b23f-4203-a29d-6fb6e4f9a7ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Katalon Platform Available for On-Premise Deployment</value>
+      <webElementGuid>264c8391-57f6-4480-9852-9ca43dc01398</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;news&quot;)/div[@class=&quot;blog_list&quot;]/div[@class=&quot;blogs&quot;]/div[@class=&quot;item_blog news item_page_1 active&quot;]/a[1]/div[@class=&quot;title_blog_container&quot;]/div[@class=&quot;title_blog&quot;]</value>
+      <webElementGuid>e512600b-8fcd-4ef2-a1d5-980908e906a7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='news']/div/div/div[2]/a/div[2]/div[2]</value>
+      <webElementGuid>0cc50619-fcd7-4cc3-ad7b-8d8694af7d5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='News'])[11]/following::div[1]</value>
+      <webElementGuid>6ce79ef8-93cd-424a-961c-a4f7be62dff4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Katalon Recognized By G2 As The Leader In Automation Testing And Software Testing'])[1]/following::div[5]</value>
+      <webElementGuid>5f37f101-67aa-4594-99d6-9e2a1c7fbaef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='News'])[12]/preceding::div[2]</value>
+      <webElementGuid>e2676653-e799-456d-861b-cab5e8df88bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='News'])[13]/preceding::div[7]</value>
+      <webElementGuid>19d2735c-5116-4603-97e8-17b43fa5b2ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/a/div[2]/div[2]</value>
+      <webElementGuid>dda18660-e253-4ff4-b3bd-8860bfd66408</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Katalon Platform Available for On-Premise Deployment' or . = 'Katalon Platform Available for On-Premise Deployment')]</value>
+      <webElementGuid>8632cad5-1e74-44b3-b8e1-1e09f56a6032</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

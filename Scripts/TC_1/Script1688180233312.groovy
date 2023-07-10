@@ -19,17 +19,50 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.maximizeWindow()
+WebUI.navigateToUrl('https://katalon-demo-cura.herokuapp.com/')
 
-WebUI.click(findTestObject(null))
+WebUI.click(findTestObject('Object Repository/Demo_Objects/Page_CURA Healthcare Service/a_Make Appointment'))
 
-WebUI.sendKeys(findTestObject(null), '')
+WebUI.click(findTestObject('Object Repository/Demo_Objects/Page_CURA Healthcare Service/input_Demo account_form-control'))
 
-WebUI.clearText(findTestObject(null))
+WebUI.click(findTestObject('Object Repository/Demo_Objects/Page_CURA Healthcare Service/input_Demo account_form-control'))
 
-WebUI.clickImage(findTestObject(null))
+WebUI.click(findTestObject('Object Repository/Demo_Objects/Page_CURA Healthcare Service/input_Demo account_form-control_1'))
 
-WebUI.verifyElementChecked(findTestObject(null), 0)
+WebUI.click(findTestObject('Object Repository/Demo_Objects/Page_CURA Healthcare Service/input_Demo account_form-control'))
+
+WebUI.click(findTestObject('Object Repository/Demo_Objects/Page_CURA Healthcare Service/input_Demo account_form-control_1'))
+
+WebUI.setText(findTestObject('Object Repository/Demo_Objects/Page_CURA Healthcare Service/input_Username_username'), 'gajendra.akash@gmail.com')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Demo_Objects/Page_CURA Healthcare Service/input_Password_password'), 
+    'Z7kjzg1VB1IE313HrJFMTA==')
+
+WebUI.click(findTestObject('Object Repository/Demo_Objects/Page_CURA Healthcare Service/button_Login'))
+
+WebUI.click(findTestObject('Object Repository/Demo_Objects/Page_CURA Healthcare Service/div_CURA Healthcare Service                _bba294'))
+
+WebUI.click(findTestObject('Object Repository/Demo_Objects/Page_CURA Healthcare Service/p_Atlanta 550 Pharr Road NE Suite 525Atlant_8f4c85'))
+
+WebUI.waitForElementClickable(findTestObject('Object Repository/Demo_Objects/Page_CURA Healthcare Service/p_Atlanta 550 Pharr Road NE Suite 525Atlant_8f4c85'), 
+    5)
+
+WebUI.verifyElementClickable(findTestObject('Object Repository/Demo_Objects/Page_CURA Healthcare Service/p_Atlanta 550 Pharr Road NE Suite 525Atlant_8f4c85'), 
+    FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('Object Repository/Demo_Objects/Page_CURA Healthcare Service/li_(678) 813-1KMS'))
+
+WebUI.verifyElementClickable(findTestObject('Object Repository/Demo_Objects/Page_CURA Healthcare Service/li_(678) 813-1KMS'))
+
+WebUI.click(findTestObject('Object Repository/Demo_Objects/Page_CURA Healthcare Service/a_CURA Healthcare_menu-toggle'))
+
+WebUI.click(findTestObject('Object Repository/Demo_Objects/Page_CURA Healthcare Service/a_Home'))
+
+WebUI.verifyElementClickable(findTestObject('Object Repository/Demo_Objects/Page_CURA Healthcare Service/a_Home'))
+
+WebUI.click(findTestObject('Object Repository/Demo_Objects/Page_CURA Healthcare Service/div_CURA Healthcare Service                _bba294'))
+
+WebUI.takeFullPageScreenshotAsCheckpoint('Testing')
 
 WebUI.closeBrowser()
 

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_x</name>
+   <tag></tag>
+   <elementGuidId>68de5b92-be09-4781-acb0-aa02c3e9f362</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.integration-popup.deque-axe.active > div.inner-popup > div.header > div.title-section > div.close</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div[2]/div[3]/div[50]/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ef106b96-a6ac-44b4-8b14-4ed3ed3bdcf0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>close</value>
+      <webElementGuid>d16916e4-6f18-455b-a962-d3d1bc1cbee4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>x</value>
+      <webElementGuid>b4a729a5-8c42-4a68-8657-b70bf3e5024a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[1]/div[@class=&quot;Integrations_wrappingIntegrations__1xkjR&quot;]/div[@class=&quot;integrations&quot;]/div[@class=&quot;integration-popup deque-axe active&quot;]/div[@class=&quot;inner-popup&quot;]/div[@class=&quot;header&quot;]/div[@class=&quot;title-section&quot;]/div[@class=&quot;close&quot;]</value>
+      <webElementGuid>b95b17a8-5037-4061-b925-b217868807c6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[2]/div[3]/div[50]/div/div/div/div</value>
+      <webElementGuid>1d4d83bc-0ba8-4f73-91da-c6a4b5726814</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deque Axe'])[1]/following::div[1]</value>
+      <webElementGuid>c60976ab-d404-469a-96c1-ad16b1e06cf9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Accessibility Testing'])[1]/preceding::div[2]</value>
+      <webElementGuid>8f3f2840-b6e2-4bfd-a5f8-bb383fc0b98e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[50]/div/div/div/div</value>
+      <webElementGuid>07469a3e-41fd-49f7-b5cd-0212529cfdbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'x' or . = 'x')]</value>
+      <webElementGuid>8fd8ad2f-1f5d-4bef-a10c-cd413c80f952</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Report this ad</name>
+   <tag></tag>
+   <elementGuidId>49436b41-1d7a-4a29-8fc2-29f7ec063593</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#survey_menu_report_ad_button_title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='survey_menu_report_ad_button_title']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>27d18251-2ed2-4892-b39b-ed2bdc7bd4f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>survey_menu_report_ad_button_title</value>
+      <webElementGuid>ebe8d452-6a13-48ec-aeea-ad7c2a0af8a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Report this ad</value>
+      <webElementGuid>4513be0e-80da-414c-b825-605c078d6be6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;survey_menu_report_ad_button_title&quot;)</value>
+      <webElementGuid>dcdea154-7083-4040-ac42-f6723bfd749d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Demo_Objects_1/Page_DEMOQA/iframe_concat(id(, , d0a61c14, , ))_d0a61c14</value>
+      <webElementGuid>f4df1884-02e2-4932-8381-9c326861521e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='survey_menu_report_ad_button_title']</value>
+      <webElementGuid>da36fbb2-2b13-4d24-a247-fc971a758f69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='survey_menu_report_ad_button']/span</value>
+      <webElementGuid>9396266e-a99a-4f19-8dbe-27f305256649</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ad by'])[1]/following::span[1]</value>
+      <webElementGuid>a4002463-1502-4ba5-97bf-47fe5a2acc1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ad choices'])[1]/preceding::span[1]</value>
+      <webElementGuid>f81468a5-22e2-4dfe-80bf-c4922c6ab2df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copy debug info'])[1]/preceding::span[2]</value>
+      <webElementGuid>495296ce-e1bd-4100-ab17-6350c8035aa5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Report this ad']/parent::*</value>
+      <webElementGuid>bb719e6e-a8f5-459e-b2c0-d88cadf8ac4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/span</value>
+      <webElementGuid>191e7911-b868-4b72-9ace-79a9a3b9b466</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'survey_menu_report_ad_button_title' and (text() = 'Report this ad' or . = 'Report this ad')]</value>
+      <webElementGuid>6ee33fb5-4eea-4a04-b84c-bc2530aa506a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

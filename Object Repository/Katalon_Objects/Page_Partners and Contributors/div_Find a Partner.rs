@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Find a Partner</name>
+   <tag></tag>
+   <elementGuidId>ee2feeaa-8e67-4d6e-aff5-7668d6d8fae0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.button-find-a-partner</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='hero-section']/div/a/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d385fa55-0c14-46f9-b059-a96e4859e34c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button-find-a-partner</value>
+      <webElementGuid>c9346b3e-e41c-4442-8a5a-31cfecbff29a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Find a Partner</value>
+      <webElementGuid>c6917419-7476-46e9-b547-5d653729f9fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hero-section&quot;)/div[@class=&quot;katalon-partners-description&quot;]/a[1]/div[@class=&quot;button-find-a-partner&quot;]</value>
+      <webElementGuid>13533efe-d567-4660-ab8b-4c89e9e35784</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='hero-section']/div/a/div</value>
+      <webElementGuid>42030df3-00b0-4499-a285-ed6bbccace02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Partner Locator'])[1]/following::div[1]</value>
+      <webElementGuid>7641775c-5ae5-420f-8107-54b7478c88af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Katalon Partner Programs'])[1]/following::div[3]</value>
+      <webElementGuid>e3c8cbd7-267a-4d3f-a263-71b2e3ab05e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Become a Partner'])[1]/preceding::div[32]</value>
+      <webElementGuid>4fc9ba20-8858-4479-b45d-844f9dbf33fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Partner Portal Login'])[1]/preceding::div[33]</value>
+      <webElementGuid>c1af83a6-25ba-48d7-b759-78fd837455e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Find a Partner']/parent::*</value>
+      <webElementGuid>f0ca2179-ce4d-416d-8195-2a27816505c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/a/div</value>
+      <webElementGuid>58e44897-bf2f-4465-95f6-ece420745994</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Find a Partner' or . = 'Find a Partner')]</value>
+      <webElementGuid>1e5a11a9-4233-4d4c-a0e6-c12d72c93f49</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

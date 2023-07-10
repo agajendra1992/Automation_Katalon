@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Log Out_id-img-header-mobile</name>
+   <tag></tag>
+   <elementGuidId>043ba96c-c3b7-4d4d-94fb-32e0900fd8be</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#id-img-header-mobile</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='id-img-header-mobile']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d07a1d58-ee34-471a-98e7-b72c1c4724a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-auto btn-show-menu</value>
+      <webElementGuid>9f50bbe5-adc6-4fd9-a78d-769df0e7ec0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>id-img-header-mobile</value>
+      <webElementGuid>2b94cc0b-fa00-48ee-b1f2-8f8d77cac450</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;id-img-header-mobile&quot;)</value>
+      <webElementGuid>ffcb9e07-ba4c-4ffa-9a69-fb6e6e32564d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='id-img-header-mobile']</value>
+      <webElementGuid>a3ea9a46-c602-4fdf-8452-fa28e153b7ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//header[@id='masthead']/div/div/div/div/div[2])[2]</value>
+      <webElementGuid>e5420f78-9285-4510-be7d-01f5d021de82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log Out'])[1]/following::div[8]</value>
+      <webElementGuid>f80afa39-8107-4cda-bf5c-c40b27b97af4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Quiz Attempts'])[1]/following::div[8]</value>
+      <webElementGuid>c6711683-0fb2-4edd-8ea3-e90e62c34bdd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Courses'])[2]/preceding::div[1]</value>
+      <webElementGuid>34e8bede-b67c-4cbf-bcc5-3f05f5c2c2d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Learning Paths'])[2]/preceding::div[1]</value>
+      <webElementGuid>c57e4964-56ae-4111-b256-265d970c31d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//header[2]/div/div/div/div/div[2]</value>
+      <webElementGuid>bca05216-4884-4483-bebf-5c7c93027825</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'id-img-header-mobile']</value>
+      <webElementGuid>6c0298e7-3f8d-4899-8b2e-eab86dba012c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

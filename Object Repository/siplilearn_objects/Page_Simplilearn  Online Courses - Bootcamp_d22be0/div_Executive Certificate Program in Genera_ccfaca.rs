@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Executive Certificate Program in Genera_ccfaca</name>
+   <tag></tag>
+   <elementGuidId>da0b692b-55f1-4450-8927-d053ce175ff6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h4 > div</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='home-university-program']/div/ul/li/div/a/div[2]/h4/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6bc22a7a-5671-498d-b643-d3c80b020331</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Executive Certificate Program in General Management</value>
+      <webElementGuid>b34b83e9-6f04-44dc-acd1-d9f76c0cf17b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;home-university-program&quot;)/div[@class=&quot;ul-iners&quot;]/ul[@class=&quot;c_list&quot;]/li[1]/div[@class=&quot;review-list&quot;]/a[1]/div[@class=&quot;slider-info&quot;]/h4[1]/div[1]</value>
+      <webElementGuid>0c66dab3-f8ae-41e2-b73e-59f08c0feed8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='home-university-program']/div/ul/li/div/a/div[2]/h4/div</value>
+      <webElementGuid>079ed903-3a80-4cf5-93ea-44d5aecc7ef4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Career Support'])[1]/following::div[8]</value>
+      <webElementGuid>e6850596-6dcb-44fa-8c3a-27ec4de53b0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masterclasses from University'])[1]/following::div[8]</value>
+      <webElementGuid>08bafb80-9e1c-40b0-b997-4432aaba3081</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Professional Certificate Course in Data Science'])[1]/preceding::div[4]</value>
+      <webElementGuid>431c386e-c092-43c0-a981-409e96925d1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Executive Certificate Program in General Management']/parent::*</value>
+      <webElementGuid>d1b05f64-f5b4-45ab-b383-40ef7798dd1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h4/div</value>
+      <webElementGuid>6529cda3-4489-432f-8cef-8122574bb649</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Executive Certificate Program in General Management' or . = 'Executive Certificate Program in General Management')]</value>
+      <webElementGuid>34fb2132-dd0d-450c-a0c8-287b7e6db00f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

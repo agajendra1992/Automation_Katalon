@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_6</name>
+   <tag></tag>
+   <elementGuidId>2a9ddb18-e2a4-4f5f-b5c0-7394eb2739df</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div/div/div/div/div[3]/div/div[2]/div/div/div[2]/div[2]/div[3]/div[2]/div/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>bc81da5b-51be-4fa6-9829-f0e0e0745fca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dateInnerPara</value>
+      <webElementGuid>5cc96ad4-4ea3-4a9f-942b-89f2ba7effcb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>6</value>
+      <webElementGuid>aa65d207-9f05-4899-8c83-8d1b4817c6cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;bgGradient webpSupport&quot;]/div[@class=&quot;minContainer&quot;]/div[1]/div[@class=&quot;widgetSection appendBottom40&quot;]/div[1]/div[@class=&quot;hdsw widgetOpen&quot;]/div[@class=&quot;hdsw_inner&quot;]/div[@class=&quot;hdsw_inputBox selectHtlCity inactiveWidget activeWidget&quot;]/div[1]/div[@class=&quot;daypicker-container&quot;]/div[@class=&quot;DayPicker&quot;]/div[@class=&quot;DayPicker-wrapper&quot;]/div[@class=&quot;DayPicker-Months&quot;]/div[@class=&quot;DayPicker-Month&quot;]/div[@class=&quot;DayPicker-Body&quot;]/div[@class=&quot;DayPicker-Week&quot;]/div[@class=&quot;DayPicker-Day&quot;]/div[@class=&quot;dateInnerCell&quot;]/p[@class=&quot;dateInnerPara&quot;]</value>
+      <webElementGuid>3c8e2f4b-7b5d-440c-b158-c343217083c5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div/div/div/div/div[3]/div/div[2]/div/div/div[2]/div[2]/div[3]/div[2]/div/div/p</value>
+      <webElementGuid>eb57a4a3-8de4-43e9-ab1e-c0c5c0e3a71d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sa'])[2]/following::p[6]</value>
+      <webElementGuid>b380bfc6-51cd-4a2f-8e34-b204edb90b44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fr'])[2]/following::p[6]</value>
+      <webElementGuid>d35ccf4b-68b5-4a1c-ba8f-d42baa004c5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rooms &amp; Guests'])[1]/preceding::p[26]</value>
+      <webElementGuid>676fca8d-b1ee-4c66-a491-a9477d7a585e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*Required Field'])[2]/preceding::p[27]</value>
+      <webElementGuid>9149c541-1ec1-4ba2-9c85-44dd497a0478</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/div[2]/div/div/p</value>
+      <webElementGuid>613c53ca-29a4-4f5f-a4e3-f2f464af3b18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '6' or . = '6')]</value>
+      <webElementGuid>d3490359-b786-4210-abbd-3be5230c08fb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

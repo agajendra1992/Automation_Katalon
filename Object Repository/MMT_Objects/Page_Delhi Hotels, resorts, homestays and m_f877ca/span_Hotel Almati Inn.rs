@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Hotel Almati Inn</name>
+   <tag></tag>
+   <elementGuidId>89d38207-5e5e-4e74-9123-b8a655781e75</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#htl_id_seo_201810121712152116</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@id='hlistpg_hotel_name']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>45e4bafd-bc61-4f30-ad38-e4dbcb7d9737</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>wordBreak appendRight10</value>
+      <webElementGuid>5dab2a2d-4536-46e6-a1d0-fbb987f7fce8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>htl_id_seo_201810121712152116</value>
+      <webElementGuid>0fcb34cf-7bed-4799-b239-4ed99fb25ddf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hotel Almati Inn </value>
+      <webElementGuid>dbec6c81-25f6-4ee9-b23c-a8341823a323</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;htl_id_seo_201810121712152116&quot;)</value>
+      <webElementGuid>aa0321db-06bb-4961-95fe-308c55fb5919</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='htl_id_seo_201810121712152116']</value>
+      <webElementGuid>fbe2b613-eff0-4e68-8ea9-68f15f19eba6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//p[@id='hlistpg_hotel_name']/span</value>
+      <webElementGuid>25849f00-ef54-4003-b66d-bde2ff67bdfc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Child friendliness'])[1]/following::span[4]</value>
+      <webElementGuid>dda20f8a-d415-4e9e-9414-b1c8edb9544b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mahipalpur'])[2]/preceding::span[3]</value>
+      <webElementGuid>f2d42bbc-3fcc-4261-bef5-85cd74417b6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Hotel Almati Inn']/parent::*</value>
+      <webElementGuid>0e47e5ce-c4ed-486f-9565-e2331d0df89d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/p/span</value>
+      <webElementGuid>06f5dea6-3734-4e86-9821-93bdbcc88b5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'htl_id_seo_201810121712152116' and (text() = 'Hotel Almati Inn ' or . = 'Hotel Almati Inn ')]</value>
+      <webElementGuid>acdf3247-87e9-4632-9a3d-f4eb815dd2e9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

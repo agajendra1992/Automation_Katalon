@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Partners</name>
+   <tag></tag>
+   <elementGuidId>dfb3e3e9-c80b-4141-8fe3-5377b4a9d06b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page']/footer/div/div/div[2]/div/div[6]/ul/li[5]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f3e80c89-127f-49dd-9d7f-ede365ce6e72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://katalon.com/partners/</value>
+      <webElementGuid>aef171af-c5d4-41f4-afe3-3aee52680859</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>https://katalon.com/partners/</value>
+      <webElementGuid>d9388076-0867-489c-af53-e99b9d0f8c82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>block text-sm pb-2 text-black hover:text-lilac-600</value>
+      <webElementGuid>5b79055d-f3b0-4db5-9665-5c751e5fc9ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                            Partners                                        </value>
+      <webElementGuid>d569dfcd-f5f2-4ce4-89a1-bb2cf138a813</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page&quot;)/footer[1]/div[@class=&quot;tw-newbrand22&quot;]/div[@class=&quot;container font-sans mx-auto px-4 x:px-0 md:flex&quot;]/div[@class=&quot;flex-1&quot;]/div[@class=&quot;grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-2&quot;]/div[6]/ul[1]/li[@class=&quot;p-0&quot;]/a[@class=&quot;block text-sm pb-2 text-black hover:text-lilac-600&quot;]</value>
+      <webElementGuid>735fccd3-4b92-4763-8ac1-b831e3f38837</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page']/footer/div/div/div[2]/div/div[6]/ul/li[5]/a</value>
+      <webElementGuid>986c2f7c-2465-4f04-a3ff-e9ed7ea30027</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Partners')]</value>
+      <webElementGuid>18886616-c860-49eb-bb61-8799ecf963ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='News'])[1]/following::a[1]</value>
+      <webElementGuid>812bb593-c5c2-458a-9292-4747730f0fc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Events'])[1]/following::a[2]</value>
+      <webElementGuid>35b500ca-0c3e-4775-ba58-b45813602bd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='business@katalon.com'])[1]/preceding::a[1]</value>
+      <webElementGuid>e99988b9-5301-4905-97a9-d22ccb843855</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='business@katalon.com'])[2]/preceding::a[2]</value>
+      <webElementGuid>5d98b4ea-f8dd-4483-be9b-16e6039abab8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Partners']/parent::*</value>
+      <webElementGuid>ede285db-1487-499b-986b-b3c7a9130d9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://katalon.com/partners/')]</value>
+      <webElementGuid>2f73818f-b46f-401d-83d3-4ddd392e4331</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/ul/li[5]/a</value>
+      <webElementGuid>3f627269-a9a0-457c-9c45-31bcefe995bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://katalon.com/partners/' and (text() = '
+                                            Partners                                        ' or . = '
+                                            Partners                                        ')]</value>
+      <webElementGuid>233f9c4b-42f4-4e11-a3ff-c5519bab72ed</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

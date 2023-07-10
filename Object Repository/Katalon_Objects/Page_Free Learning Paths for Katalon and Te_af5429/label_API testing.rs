@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_API testing</name>
+   <tag></tag>
+   <elementGuidId>d085fd1a-a1ba-4eb2-9b07-2871ddf6db02</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main']/section[2]/div/div/div/ul/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>4b753335-3803-4a80-9201-7e63fd899e5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>archive_cat_121</value>
+      <webElementGuid>f3777f84-3eae-4cf0-8ab1-70e1e48c65f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> API testing</value>
+      <webElementGuid>edb40388-dbc5-4492-9710-04e0da514818</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/section[@class=&quot;container container_customized archive-page&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;sidebar-filter col col-12 col-md-3&quot;]/div[@class=&quot;filter-list&quot;]/ul[@class=&quot;sub-filter-list&quot;]/div[@class=&quot;filter-item&quot;]/label[1]</value>
+      <webElementGuid>4524203a-da33-4599-a295-c3f218130958</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/section[2]/div/div/div/ul/div/label</value>
+      <webElementGuid>637b89b9-0a6b-46b2-b017-deefc64b9bf7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Types of testing'])[1]/following::label[1]</value>
+      <webElementGuid>26968233-d417-42b6-b0e6-55a6e0110094</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='✕ Clear'])[1]/following::label[1]</value>
+      <webElementGuid>f02ce139-dcc2-4367-9055-f6f2a7117afd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Web testing'])[1]/preceding::label[1]</value>
+      <webElementGuid>870e8aa9-bf81-4004-a47b-1eb7b0fff699</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Newest Item'])[2]/preceding::label[2]</value>
+      <webElementGuid>6bb7b04d-981e-41d4-9de4-9785955439d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='API testing']/parent::*</value>
+      <webElementGuid>4ac00bb8-2ab8-4bf6-85be-6d53def24056</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label</value>
+      <webElementGuid>f53db4d0-2147-4611-bd5a-efed9d9e681a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = ' API testing' or . = ' API testing')]</value>
+      <webElementGuid>03804d72-5bc0-4cd3-b134-1917158ba5d5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

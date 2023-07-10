@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Customize your Plan_close closeIcon</name>
+   <tag></tag>
+   <elementGuidId>da6e4e98-7938-4bf1-883e-82797b3f5db1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.close.closeIcon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modalpopup']/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>875ab709-a4ba-49f2-9826-c4c72d0e4675</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>close closeIcon</value>
+      <webElementGuid>89573ab6-c08a-4833-8d42-2cee4db2b3df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modalpopup&quot;)/div[@class=&quot;modalContent&quot;]/span[@class=&quot;close closeIcon&quot;]</value>
+      <webElementGuid>e0497a49-21f0-408a-8450-7b379bf6ec35</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modalpopup']/div/span</value>
+      <webElementGuid>a6d6447f-a7e1-400d-927b-7f585d4fdb40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/span</value>
+      <webElementGuid>08c7bcf5-4bb6-4787-b3fb-3cb66fb00fde</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

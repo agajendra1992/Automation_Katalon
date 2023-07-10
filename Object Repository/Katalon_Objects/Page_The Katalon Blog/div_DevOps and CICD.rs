@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_DevOps and CICD</name>
+   <tag></tag>
+   <elementGuidId>362d0d83-ea95-4ef2-b381-21c84c1d4b6b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.category_item.devops</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div[2]/div/div/div[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>46dc23d7-625e-40fb-9323-2160cb9c6e1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>category_item devops</value>
+      <webElementGuid>1ead14d0-9230-4f44-aee5-947d0ad8eff7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-active-category</name>
+      <type>Main</type>
+      <value>devops</value>
+      <webElementGuid>97c62810-1875-4876-a25b-5956872b17f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>DevOps and CI/CD</value>
+      <webElementGuid>79d7453d-b115-4688-8e06-4366e4770f66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[1]/div[@class=&quot;BlogCenter_wrapBlogCenter__9owve&quot;]/div[@class=&quot;wrap_top_nav&quot;]/div[@class=&quot;top_nav_category&quot;]/div[@class=&quot;category_item devops&quot;]</value>
+      <webElementGuid>6a93ca3f-fe01-4efc-b009-e472bfb20976</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[2]/div/div/div[5]</value>
+      <webElementGuid>9feb6bda-7f7c-46d4-baf5-e964a92ff554</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Insights'])[1]/following::div[1]</value>
+      <webElementGuid>84650cc4-e2b4-474f-a809-268de60b88a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Products'])[1]/following::div[2]</value>
+      <webElementGuid>f740dc10-82d2-4615-bfd4-c782fe9a1e22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/preceding::div[1]</value>
+      <webElementGuid>49293648-4d9f-4cfb-846d-f1254e0703b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='K'])[1]/preceding::div[1]</value>
+      <webElementGuid>0817422a-9ed5-4b5e-abb3-83ec12a62431</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='DevOps and CI/CD']/parent::*</value>
+      <webElementGuid>94d0d656-1f27-4c10-a5f8-e7a4ff4af4be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[5]</value>
+      <webElementGuid>e89ed3fb-3c9c-4954-95fd-c581c0b04e66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'DevOps and CI/CD' or . = 'DevOps and CI/CD')]</value>
+      <webElementGuid>8c064258-66b8-439a-a71f-a3bcffe60517</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

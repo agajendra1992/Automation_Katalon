@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Careers</name>
+   <tag></tag>
+   <elementGuidId>9eb2995d-4cc9-4e73-859b-de2aa48fc232</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page']/footer/div/div/div[2]/div/div[6]/ul/li[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a6757543-7afa-4098-a277-b3f1d4f43ab3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://katalon.com/careers/</value>
+      <webElementGuid>996e5246-462e-495e-9e01-b5ab34bfebd1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>https://katalon.com/careers/</value>
+      <webElementGuid>5c9e7638-5749-447a-b1b6-da8cb33c47a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>block text-sm pb-2 text-black hover:text-lilac-600</value>
+      <webElementGuid>55b05a34-9dc7-416b-9b18-1e53ed3ddef2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                            Careers                                        </value>
+      <webElementGuid>37a550ca-14c2-40e7-bfdf-e5d322a0cdd1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page&quot;)/footer[1]/div[@class=&quot;tw-newbrand22&quot;]/div[@class=&quot;container font-sans mx-auto px-4 x:px-0 md:flex&quot;]/div[@class=&quot;flex-1&quot;]/div[@class=&quot;grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-2&quot;]/div[6]/ul[1]/li[@class=&quot;p-0&quot;]/a[@class=&quot;block text-sm pb-2 text-black hover:text-lilac-600&quot;]</value>
+      <webElementGuid>0ea4faa2-3495-4bf8-a234-26ec95be9bc5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page']/footer/div/div/div[2]/div/div[6]/ul/li[2]/a</value>
+      <webElementGuid>eae2c0d0-8591-4e2a-a492-79512f8a71bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Careers')]</value>
+      <webElementGuid>eeb92b0c-0be3-4d43-9a76-8540b03a1d34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About Katalon'])[1]/following::a[1]</value>
+      <webElementGuid>50ce8fd8-dfe8-4068-851d-285b89b06187</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sample Projects on GitHub'])[1]/following::a[2]</value>
+      <webElementGuid>5d84b527-0888-49b2-8a5a-9f25ff37a329</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Events'])[1]/preceding::a[1]</value>
+      <webElementGuid>cef76657-9c14-4e10-8e6e-2bbfc1b3bce3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='News'])[1]/preceding::a[2]</value>
+      <webElementGuid>c46e8b65-dafb-4671-805a-834ab7fb1a84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Careers']/parent::*</value>
+      <webElementGuid>898a57e5-6ff3-4953-956a-77e17da8e162</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://katalon.com/careers/')]</value>
+      <webElementGuid>67359b14-79ac-4403-9a02-3a7eb6010a81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/ul/li[2]/a</value>
+      <webElementGuid>0623e173-cfe3-4f12-a7bf-be446542ee00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://katalon.com/careers/' and (text() = '
+                                            Careers                                        ' or . = '
+                                            Careers                                        ')]</value>
+      <webElementGuid>d5b01150-d57c-4c4f-89c7-bb37b0e97266</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

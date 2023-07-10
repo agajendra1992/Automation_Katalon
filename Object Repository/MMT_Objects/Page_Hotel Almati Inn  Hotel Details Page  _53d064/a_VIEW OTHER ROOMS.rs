@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_VIEW OTHER ROOMS</name>
+   <tag></tag>
+   <elementGuidId>f9e211d0-437c-4ac5-96ce-f2c31c0859e0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.prmRoomDtlCard__link</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div/div/div/div/div[2]/span/div/div/div/div[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>1a3047c7-0a70-4ab9-bd9e-7a1455ded781</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>prmRoomDtlCard__link</value>
+      <webElementGuid>ccc17f82-354c-4c8d-9156-0baa3a1a7c33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>VIEW OTHER ROOMS</value>
+      <webElementGuid>2f2b5f47-bc67-4850-9f58-020dd097e151</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[2]/div[1]/div[@class=&quot;dtNewDetailsPage&quot;]/div[@class=&quot;hotelDetailsPage__container&quot;]/div[1]/div[@class=&quot;baseHeaderContiner&quot;]/span[1]/div[@class=&quot;baseRight&quot;]/div[@class=&quot;baseRight__sticky&quot;]/div[@class=&quot;prmRoomDtlCard appendBottom10&quot;]/div[@class=&quot;prmRoomDtlCard__footer&quot;]/a[@class=&quot;prmRoomDtlCard__link&quot;]</value>
+      <webElementGuid>237d2ddd-6f24-4ad9-9dd5-3d3a6e8310cc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/div/div/div/div[2]/span/div/div/div/div[2]/a</value>
+      <webElementGuid>1f62896f-e393-4ae7-ba7e-99840fb97da5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'VIEW OTHER ROOMS')]</value>
+      <webElementGuid>6afc4b83-e882-46cd-91aa-e7aa1bb4a157</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MMTBESTBUY'])[1]/following::a[1]</value>
+      <webElementGuid>77713234-49da-41c2-b53b-b0d7fd7a56eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Check-in'])[1]/following::a[1]</value>
+      <webElementGuid>14adb66c-8f0d-434e-bffd-339b62c02b48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BOOK THIS NOW'])[1]/preceding::a[1]</value>
+      <webElementGuid>683f9a29-0d8f-40a4-aa31-5cb347f15ca3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View On Map'])[1]/preceding::a[2]</value>
+      <webElementGuid>b9f19391-f09c-45ce-98f3-0e7c115a6efd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='VIEW OTHER ROOMS']/parent::*</value>
+      <webElementGuid>ae6529e8-cab7-4585-9afc-a376a69f9f1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a</value>
+      <webElementGuid>f6304188-bedd-44b0-a754-f654d0d8606f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'VIEW OTHER ROOMS' or . = 'VIEW OTHER ROOMS')]</value>
+      <webElementGuid>57dd074e-a951-4273-b857-016babde2448</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

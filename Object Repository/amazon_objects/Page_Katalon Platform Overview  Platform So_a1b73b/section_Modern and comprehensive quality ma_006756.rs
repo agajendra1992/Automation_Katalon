@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>section_Modern and comprehensive quality ma_006756</name>
+   <tag></tag>
+   <elementGuidId>f4229c17-883c-4ff9-8d64-427e1020b64a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>section.hero_section</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div[2]/section</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>section</value>
+      <webElementGuid>100d19d6-e8b7-4170-b715-f7dbb547f75d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hero_section</value>
+      <webElementGuid>5370927b-f601-4df1-b4ef-eb99ebacd716</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Modern and comprehensive quality management platformGet started1,500+ reviews on</value>
+      <webElementGuid>08133e53-fd7f-42d8-a881-73134b2b1ae8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[1]/div[@class=&quot;KatalonPlatform_wrapKatalonPlatform__aiMoL&quot;]/section[@class=&quot;hero_section&quot;]</value>
+      <webElementGuid>c20b8e6f-f4ac-4ab8-8442-ebb5eba0937c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[2]/section</value>
+      <webElementGuid>293e5424-9865-4be6-8556-983204d6b40b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All jobs'])[2]/following::section[1]</value>
+      <webElementGuid>40b79ee2-199e-4650-8e1c-8dd0dc570a27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Being here'])[2]/following::section[1]</value>
+      <webElementGuid>d80e4339-609d-4c03-8cd4-aca4ebd337af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/section</value>
+      <webElementGuid>ad782340-f0b8-4e2f-8def-f05ec2025fdb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//section[(text() = 'Modern and comprehensive quality management platformGet started1,500+ reviews on' or . = 'Modern and comprehensive quality management platformGet started1,500+ reviews on')]</value>
+      <webElementGuid>f840c873-46e3-4dcd-a15f-888e3caaaf00</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

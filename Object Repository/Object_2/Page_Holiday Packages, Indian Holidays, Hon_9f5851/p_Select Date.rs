@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Select Date</name>
+   <tag></tag>
+   <elementGuidId>5da99a81-7e3f-4c68-99bf-fae7389f6ef7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.empty-date-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='departureDate']/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>cc1dbc74-03df-46fe-b55c-12187c8daef6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>empty-date-text</value>
+      <webElementGuid>02c1c846-aea3-4bef-966e-e95a3717bcd3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Date</value>
+      <webElementGuid>dd3504b7-1f47-404f-8b2e-556c96221d74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;departureDate&quot;)/p[@class=&quot;empty-date-text&quot;]</value>
+      <webElementGuid>027da2a6-11e1-439d-9c11-dc1232966b45</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='departureDate']/p</value>
+      <webElementGuid>bd69987b-ee62-482d-b2e4-09573b125374</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Departure Date'])[1]/following::p[1]</value>
+      <webElementGuid>405af225-a86d-4592-8650-32c4e4123106</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='To City/Country/Category'])[1]/following::p[2]</value>
+      <webElementGuid>38880841-46fd-4131-82f0-1106547a753b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*Required Field'])[1]/preceding::p[1]</value>
+      <webElementGuid>e4c858b9-dde0-4fc0-9b2a-1b09ec4d135c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rooms &amp; Guests'])[1]/preceding::p[1]</value>
+      <webElementGuid>5e781418-4f96-49a8-8f17-374927e68ca1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Select Date']/parent::*</value>
+      <webElementGuid>920f2cd8-6fdf-4798-ab27-aba2271c8951</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/div/p</value>
+      <webElementGuid>912965b7-e672-4b2e-aaaf-812e26151f12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Select Date' or . = 'Select Date')]</value>
+      <webElementGuid>fddbaa34-5d40-4c00-a9ae-f02a0a7df576</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
